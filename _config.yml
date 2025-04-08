@@ -1,7 +1,7 @@
 # Site
 name: "bhklens"
 title: "bhklens blog"
-description: "Making sense of Indian real estate, one square foot at a time."
+description: "Indian real estate, minus the real confusion."
 logo: 'assets/images/bhklens.svg'
 favicon: 'assets/images/bhklens.svg'
 baseurl: ""
