@@ -1,9 +1,9 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
+name: "bhklens"
+title: "bhklens blog"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/bhklens.svg.png'
+favicon: 'assets/images/bhklens.svg'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
