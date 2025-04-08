@@ -5,9 +5,9 @@ author: priyank
 categories: [ General ]
 image: assets/images/lifecycle.svg
 date: 2025-04-08 18:15:00 +0530
+beforetoc: "When I was buying a house, one thing I genuinely missed was understanding the life cycle of a real estate project. There’s so much happening behind the scenes, and knowing the process can help you make better decisions. Here’s a simple explanation, based on what I’ve learned."
 toc: true
 ---
-When I was buying a house, one thing I genuinely missed was understanding the life cycle of a real estate project. There’s so much happening behind the scenes, and knowing the process can help you make better decisions. Here’s a simple explanation, based on what I’ve learned.
 
 ### Land & Approvals
 
