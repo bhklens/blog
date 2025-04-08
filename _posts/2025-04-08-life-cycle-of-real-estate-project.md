@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding the Life Cycle of a Real Estate Project in India"
 author: priyank
 categories: [ General ]
-image: "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2016/12/26/Photos/Processed/realestate4-k6CC--621x414@LiveMint.jpg"
+image: assets/images/lifecycle.jpg
 date: 2025-04-08 18:15:00 +0530
 beforetoc: "When I was buying a house, one thing I genuinely missed was understanding the life cycle of a real estate project. There’s so much happening behind the scenes, and knowing the process can help you make better decisions. Here’s a simple explanation, based on what I’ve learned."
 toc: true
@@ -41,7 +41,7 @@ Before advertising or taking any bookings, builders must register the project on
 
 #### Marketing & Booking
 After registration, builders can start marketing. If you like a project, you can pay a booking amount and receive an Allotment Letter. This should mention:
-    * Project specifications
+    *Project specifications
     * Total cost
     * Expected completion date
 
