@@ -2,7 +2,7 @@
 name: "bhklens"
 title: "bhklens blog"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/bhklens.svg.png'
+logo: 'assets/images/bhklens.svg'
 favicon: 'assets/images/bhklens.svg'
 baseurl: "/blog"
 google_analytics: 'UA-xxxxxxxx-1'
