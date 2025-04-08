@@ -9,13 +9,11 @@ beforetoc: "When I was buying a house, one thing I genuinely missed was understa
 toc: true
 ---
 
-### Land & Approvals
-
 #### Land Identification
 Every project begins with land. Builders either buy it outright or enter a Joint Venture (JV) with the landowner. Land scouts or consultants often bring such opportunities to builders.
 
 #### Title Report
-
+This legal document confirms that the seller actually owns the land and that there are no disputes, encumbrances, or legal issues tied to it. Generally, a lawyer is commissioned to generate a title report.
 
 #### Joint Venture
 In a JV, the builder and landowner share profits or built-up area. This reduces upfront capital requirements for builders.
@@ -23,9 +21,9 @@ In a JV, the builder and landowner share profits or built-up area. This reduces 
 #### Architect - Planning & Design
 An architect is hired to prepare layout and building plans based on the city’s Development Control Regulations (DCR). These rules cover things like:
 
-    - Minimum distance from boundary walls
-    - Parking space requirements
-    - Building height restrictions
+    * Minimum distance from boundary walls
+    * Parking space requirements
+    * Building height restrictions
 
 For Pune, refer to Pune DCPR 2017.
 
@@ -38,22 +36,17 @@ If the total built-up area is over 20,000 sq.m., the project requires EC from th
 #### Commencement Certificate (CC)
 Once all approvals are in place, the authority issues a Commencement Certificate. This document states that construction can begin under specified terms.
 
-
-### Launch & Sales
-
 #### MahaRERA Registration
 Before advertising or taking any bookings, builders must register the project on MahaRERA. This step is mandatory under RERA guidelines.
 
 #### Marketing & Booking
 After registration, builders can start marketing. If you like a project, you can pay a booking amount and receive an Allotment Letter. This should mention:
-    - Project specifications
-    - Total cost
-    - Expected completion date
+    * Project specifications
+    * Total cost
+    * Expected completion date
 
 #### Limit on Advance Payment
 Under RERA, builders cannot collect more than 10% of the total cost without executing a sale agreement (registration).
-
-### Registration & Payments
 
 #### Agreement to Sale
 Once you're sure about the purchase, the next step is registering the property.
@@ -65,8 +58,6 @@ Once you're sure about the purchase, the next step is registering the property.
 #### Payment Schedule
 You receive a demand letter from the builder at each stage of construction (e.g., plinth, slab, brickwork). The payment is linked to construction milestones.
 
-### Construction & Completion
-
 #### Completion Certificate (CC)
 When construction finishes, the project architect issues a Completion Certificate, confirming that work has been done as per the approved plan.
 
@@ -76,12 +67,10 @@ The local body (PMC/PMRDA) inspects the site to ensure compliance with the sanct
 #### Occupancy Certificate (OC)
 If all checks pass, the authority issues an Occupancy Certificate. Only then can the building be legally occupied.
 
-### Possession & Post-Handover
-
-#### Taking Possession
+#### Possession Letter
 Once OC is granted, the builder invites buyers to take possession. Ensure all dues are cleared and a possession letter is issued.
 
-#### Formation of Society
+#### Society Formation
 As per MahaRERA, the builder must initiate society formation once 50% of units are sold. A Co-operative Housing Society is formed, and share certificates are issued to members.
 
 #### Conveyance Deed (Sale Deed of Land)
