@@ -19,6 +19,7 @@ Every project begins with land. There are lots of land scouts or consultants tha
 #### 2. Redevelopment Projects
 In case of redevelopment projects, the existing structure on the land is demolished and a new structure with more apartments is built on the same land. This is possible due to increase in FSI over time or TDR available with builder. In case of redevelopment projects, the landowner is the society and the existing members of society receive an upgrade with new flats. These are also referred to as rehab flats. 
 
+https://bhklens-public.blr1.cdn.digitaloceanspaces.com/Upload%20Agreement%20_%20MoU%20Copy.pdf
 > [Sample redevelopment agreement](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/Upload%20Agreement%20_%20MoU%20Copy.pdf){:target="_blank"}
 
 #### 3. Title Report
@@ -29,12 +30,13 @@ Once the land is identified, a lawyer is commissioned to generate a title report
 #### 4. Joint Venture
 Once the land is identified as clear title, builder either buys the land outright or enters into a JV agreement with landowners. In a JV, the builder and landowner share profits or built-up area. This reduces upfront capital for builders and is also tax efficient.
 
-> [Sample JV agreement](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/sample-title-report.pdf){:target="_blank"}
+> [Sample JV agreement](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/jv1.pdf){:target="_blank"}
 
 #### 5. Planning & Design
 A licensed architect and structural engineer are hired to prepare layout and building plans based on the city’s Development Control Regulations (DCR). These rules cover things like - minimum distance from boundary walls, parking space requirements, building height restrictions, etc.    
 
 > [DCR for Pune region](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/DC%20RULES_OLDLIMIT.pdf){:target="_blank"}
+
 > [Sample layout plan](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/sample-layout-plan.pdf){:target="_blank"}
 
 #### 6. Approvals From Authorities
@@ -50,7 +52,7 @@ If the total built-up area of the project is over 20,000 sq.m., the project also
 #### 8. Commencement Certificate (CC)
 Once all approvals are in place, the authority issues a Commencement Certificate. This document states that construction can begin under specified terms.
 
-> [Sample Commencement Certificate](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/1%20Commencement%20Certificates%20_%20NA%20Order%20for%20plotted%20development.pdf){:target="_blank"}
+> [Sample Commencement Certificate](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/commencement-certificate.pdf){:target="_blank"}
 
 #### 9. MahaRERA Registration
 Before advertising or taking any bookings, builders must also register the project on MahaRERA. This step is mandatory under RERA guidelines.
@@ -59,14 +61,13 @@ Before advertising or taking any bookings, builders must also register the proje
 
 #### 10. Marketing & Booking
 After registration is approved, builders can start marketing. If you like a project, you can pay a booking amount and receive an Allotment Letter. This should mention:
-    * Project specifications
-    * Total cost
-    * Expected completion date
-    * Etc
+- Project specifications
+- Total cost
+- Expected completion date, etc
+
+__Under RERA regulation, it is mandatory for builders to execute an agreement to sale once 10% of the consideration cost is collected from the buyers.__
 
 > [Model allotment letter](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/1%20Proforma%20of%20Allotment%20letter.pdf){:target="_blank"}
-
-> Under RERA, it is mandatory for builders to execute an agreement to sale once 10% of the consideration cost is collected from the buyers.
 
 #### 11. Agreement to Sale
 Once you are sure about the purchase, the next step is registering the agreement.
@@ -85,7 +86,7 @@ When construction finishes, the project architect issues a Completion Certificat
 > [Sample Completion Letter](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/cc.pdf){:target="_blank"}
 
 #### 14. Occupancy Certificate (OC)
-Once the Completion Certificate is submitted, the local authority inspects the site to ensure compliance before granting the Occupancy Certificate. *Only after receiving the Occupancy Certificate can the building be legally occupied*. In Maharashtra, it is also known as "भोगवटा पत्र" (Bhogwatta Patra).
+Once the Completion Certificate is submitted, the local authority inspects the site to ensure compliance before granting the Occupancy Certificate. In Maharashtra, it is also known as "भोगवटा पत्र" (Bhogwatta Patra). *Only after receiving the Occupancy Certificate can the building be legally occupied*.
 
 > [Sample Occupancy Letter](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/oc.pdf){:target="_blank"}
 
@@ -101,8 +102,8 @@ As per MahaRERA, the builder must initiate society formation once 50% of units a
 This final step transfers ownership of the land and common areas to the society. This gives the society legal ownership of the land and common areas.
 
 ### Final Thoughts
-Understanding these stages will help you be better prepared and ask the right questions during your home-buying journey. Buying a home is emotional, but it helps to know the legal and procedural side of things too.
-
-> This is a simplified summary based on my current understanding. I’ll continue updating it as I learn more.
+Understanding these stages will help you be better prepared and ask the right questions during your home-buying journey. 
 
 If this helped you, share it with someone who’s house-hunting!
+
+__This is a simplified summary based on my current understanding. I’ll continue updating it as I learn more.__
