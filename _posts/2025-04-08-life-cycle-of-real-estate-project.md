@@ -82,23 +82,20 @@ After the registration is complete, you receive a demand letter from the builder
 When construction finishes, the project architect issues a Completion Certificate, confirming that work has been done as per the approved plan. This Completion Certificate is submitted to the local authorities to obtain occupancy certificate.
 > [Sample Completion Letter](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/cc.pdf)
 
-#### 14. Inspection by Authorities
-The local body (PMC/PMRDA) inspects the site to ensure compliance with the sanctioned plan.
-
-#### 15. Occupancy Certificate (OC)
+#### 14. Occupancy Certificate (OC)
 Once the Completion Certificate is submitted, the local authority inspects the site to ensure compliance before granting the Occupancy Certificate. *Only after receiving the Occupancy Certificate can the building be legally occupied*. In Maharashtra, it is also known as "भोगवटा पत्र" (Bhogwatta Patra).
 
 > [Sample Occupancy Letter](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/oc.pdf)
 
-#### 16. Possession Letter
+#### 15. Possession Letter
 Once OC is granted, the builder invites buyers to take possession. Ensure all dues are cleared and a possession letter is issued. If you have availed a loan, you submit this possession letter to your bank and henceforth, your EMI will include principal as well as interest component. Before possession, it’s typically interest-only (Pre-EMI).
 
-#### 17. Society Formation
+#### 16. Society Formation
 As per MahaRERA, the builder must initiate society formation once 50% of units are booked/sold. A Cooperative Housing Society (CHS) is formed, and share certificates are issued to its members.
 
 > [Sample Society Registration Certificate](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/society.pdf)
 
-#### 18. Conveyance Deed (Sale Deed of Land)
+#### 17. Conveyance Deed (Sale Deed of Land)
 This final step transfers ownership of the land and common areas to the society. This gives the society legal ownership of the land and common areas.
 
 ### Final Thoughts
