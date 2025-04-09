@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding the Life Cycle of a Residential Real Estate Project in India"
+title:  "The Untold Journey of Your Future Home—From Empty Land to Society Formation"
 author: priyank
 categories: [ Real Estate ]
 tags: [Awareness]
