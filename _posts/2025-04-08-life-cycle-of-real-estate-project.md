@@ -2,10 +2,11 @@
 layout: post
 title:  "Understanding the Life Cycle of a Residential Real Estate Project in India"
 author: priyank
-categories: [ General ]
+categories: [ Real Estate ]
+tags: [Awareness]
 image: assets/images/lifecycle.jpg
 date: 2025-04-08 18:15:00 +0530
-beforetoc: "When I was buying a house, one thing I genuinely missed was understanding the entire life cycle of a real estate project.  Is an Occupancy Certificate necessary, or is a Completion Certificate enough?  Is a Sale Deed the same as an Agreement to Sale? There were so many questions but no answers. Here’s a simple explanation, based on what I’ve learned."
+beforetoc: "When I was buying a house, one thing I genuinely struggled with was understanding the full life cycle of a real estate project. Is an Occupancy Certificate necessary, or is a Completion Certificate enough? Is a Sale Deed the same as an Agreement to Sale? There were so many questions, but no clear answers. Here’s a simple explanation based on what I’ve learned."
 toc: true
 ---
 
@@ -15,14 +16,14 @@ Every project begins with land. There are lots of land scouts or consultants tha
 > [DP Plan of Kharadi area in Pune](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/Planning%20Unit%20No.9%20Kharadi.pdf){:target="_blank"}
 
 #### 2. Redevelopment Projects
-In case of redevelopment projects, the existing structure on the land is demolished and a new structure with more apartments is built on the same land. This is possible due to increase in FSI over time or TDR available with builder. In case of redevelopment projects, the landowner is the society and the existing members of society get new flats. These are referred to as rehab flats. 
+In case of redevelopment projects, the existing structure on the land is demolished and a new structure with more apartments is built on the same land. This is possible due to increase in FSI over time or TDR available with builder. In case of redevelopment projects, the landowner is the society and the existing members of society receive an upgrade with new flats. These are also referred to as rehab flats. 
 
 > [Sample redevelopment agreement](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/Upload%20Agreement%20_%20MoU%20Copy.pdf){:target="_blank"}
 
 #### 3. Title Report
 Once the land is identified, a lawyer is commissioned to generate a title report. This legal document confirms that the seller actually owns the land and that there are no disputes, encumbrances, or legal issues tied to it. Lawyers usually go through 30 yrs of history of the land records to confirm. If no issues are found in the title report of the land, then the land is considered to have a clear title. 
 
-> [Sample title report].(https://bhklens-public.blr1.cdn.digitaloceanspaces.com/sample-title-report.pdf){:target="_blank"}
+> [Sample title report](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/sample-title-report.pdf){:target="_blank"}
 
 #### 4. Joint Venture
 Once the land is identified as clear title, builder either buys the land outright or enters into a JV agreement with landowners. In a JV, the builder and landowner share profits or built-up area. This reduces upfront capital for builders and is also tax efficient.
