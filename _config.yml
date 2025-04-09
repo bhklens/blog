@@ -3,7 +3,7 @@ name: "bhklens"
 title: "bhklens blog"
 description: "Indian real estate, minus the real confusion."
 logo: 'assets/images/bhklens.svg'
-favicon: 'assets/images/bhklens.svg'
+favicon: 'assets/images/favicon.png'
 baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -59,7 +59,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"
