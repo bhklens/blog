@@ -2,8 +2,8 @@
 name: "bhklens"
 title: "bhklens blog"
 description: "Indian real estate, minus the real confusion."
-logo: 'assets/images/bhklens.svg'
-favicon: 'assets/images/favicon.png'
+logo: 'assets/images/bhklens.png'
+favicon: 'assets/images/bhklens.png'
 baseurl: ""
 google_analytics: 'G-ZDTTK38T7E'
 # disqus: 'demowebsite'
