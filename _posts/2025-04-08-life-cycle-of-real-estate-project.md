@@ -19,7 +19,6 @@ Every project begins with land. There are lots of land scouts or consultants tha
 #### 2. Redevelopment Projects
 In case of redevelopment projects, the existing structure on the land is demolished and a new structure with more apartments is built on the same land. This is possible due to increase in FSI over time or TDR available with builder. In case of redevelopment projects, the landowner is the society and the existing members of society receive an upgrade with new flats. These are also referred to as rehab flats. 
 
-https://bhklens-public.blr1.cdn.digitaloceanspaces.com/Upload%20Agreement%20_%20MoU%20Copy.pdf
 > [Sample redevelopment agreement](https://bhklens-public.blr1.cdn.digitaloceanspaces.com/Upload%20Agreement%20_%20MoU%20Copy.pdf){:target="_blank"}
 
 #### 3. Title Report
@@ -102,8 +101,6 @@ As per MahaRERA, the builder must initiate society formation once 50% of units a
 This final step transfers ownership of the land and common areas to the society. This gives the society legal ownership of the land and common areas.
 
 ### Final Thoughts
-Understanding these stages will help you be better prepared and ask the right questions during your home-buying journey. 
-
-If this helped you, share it with someone who’s house-hunting!
+Understanding these stages will help you be better prepared and ask the right questions during your home-buying journey. If this helped you, share it with someone who’s house-hunting!
 
 __This is a simplified summary based on my current understanding. I’ll continue updating it as I learn more.__
