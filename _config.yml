@@ -1,7 +1,7 @@
 # Site
 name: "bhklens"
 title: "bhklens blog"
-# description: "Indian real estate, minus the real confusion."
+description: "Attempt towards making homebuying in India more honest, informed, and less stressful."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
