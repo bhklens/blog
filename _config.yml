@@ -1,7 +1,7 @@
 # Site
 name: "bhklens"
 title: "bhklens blog"
-description: "Attempt towards making homebuying in India more honest, informed, and less stressful."
+description: "Helping you find your dream home, without losing your mind."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
