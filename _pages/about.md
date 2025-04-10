@@ -1,9 +1,9 @@
 ---
 layout: page
-title: bhklens, helping you find your home, without losing your mind
+title: Helping you find your home, without losing your mind
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+# image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
