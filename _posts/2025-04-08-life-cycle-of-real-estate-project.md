@@ -4,7 +4,7 @@ title:  "The Untold Journey of Your Future Home—From Empty Land to Society For
 author: priyank
 categories: [ Real Estate ]
 tags: [Awareness]
-image: assets/images/lifecycle.jpg
+# image: assets/images/lifecycle.jpg
 date: 2025-04-08 18:15:00 +0530
 beforetoc: "When I was buying a house, one thing I genuinely struggled with was understanding the full life cycle of a real estate project. Is an Occupancy Certificate necessary, or is a Completion Certificate enough? Is a Sale Deed the same as an Agreement to Sale? There were so many questions, but no clear answers. Here’s a simple explanation based on what I’ve learned."
 toc: true
