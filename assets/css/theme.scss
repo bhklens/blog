@@ -16,13 +16,24 @@ $enable-rounded: false;
 @import 'stars';
 
 table {
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 8px 4px; /* 8px horizontal, 4px vertical spacing */
     border: 1px solid black;
 }
 
 th, td {
     border: 1px solid black;
+    padding: 6px 10px; /* padding inside cells */
 }
+
+// table {
+//     border-collapse: collapse;
+//     border: 1px solid black;
+// }
+
+// th, td {
+//     border: 1px solid black;
+// }
 
 // general
 body, input, button, select, optgroup, textarea {   
